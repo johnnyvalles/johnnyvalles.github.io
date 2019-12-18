@@ -1,0 +1,40 @@
+body {
+	font-size: 18px;
+}
+
+header {
+	text-align: center; 
+}
+
+header h1 {
+	font-family: "Oswald", sans-serif;
+	text-transform: uppercase;
+}
+
+nav a {
+	font-family: "Monserrat", sans-serif;
+	text-decoration: underline;
+	color: #000;
+	padding: 0 5px;
+}
+
+nav a:hover {
+	color: #FFF;
+	background: #000;
+	text-decoration: none;
+
+}
+
+.container {
+	min-width: 200px;
+	max-width: 500px;
+	margin: 0 auto;
+}
+
+main h2 {
+	font-family: "Oswald", sans-serif;
+}
+
+main p {
+	font-family: "Monserrat", sans-serif; 
+}
