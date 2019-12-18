@@ -39,3 +39,11 @@ main h2 {
 main p {
 	font-family: "Monserrat", sans-serif; 
 }
+
+/* Meh for now */
+@media (max-width: 375px) {
+	nav a {
+		display: block;
+		margin: 0.5em;
+	}
+}
