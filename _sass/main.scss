@@ -2,6 +2,9 @@ body {
 	font-size: 24px;
 	padding: 0 0.5em;
 }
+a {
+	color: #000;
+}
 
 header {
 	text-align: center; 
@@ -42,6 +45,26 @@ main p {
 
 .school {
 	color: #0064A4;
+}
+
+.proj-card {
+    height: 30%;
+    width: 100%; 
+    border: 1px solid #000;
+    border-radius: 7px;
+    box-sizing: border-box;
+    padding: 0.5em;
+    margin: 0.7em 0; 
+}
+
+.proj-name {
+    font-family: "Oswald", sans-serif;
+    margin: 0;
+    color: #0064A4;
+}
+
+.proj-link, .proj-desc {
+    font-family: "Monserrat", sans-serif;
 }
 
 /* Meh for now */
