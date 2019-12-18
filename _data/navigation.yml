@@ -4,8 +4,8 @@
 - name: Portfolio
   link: portfolio.html
 
-- name: Blog
-  link: blog.html
+- name: Articles
+  link: articles.html
 
 - name: Contact
   link: contact.html
