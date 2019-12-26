@@ -71,6 +71,14 @@ main p {
 	color: #0064A4;
 }
 
+.show {
+	transition: opacity 1500ms;
+}
+
+.hide {
+	opacity: 0;
+}
+
 /* Meh for now */
 @media (max-width: 375px) {
 	nav a {
