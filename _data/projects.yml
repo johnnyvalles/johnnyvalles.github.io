@@ -1,7 +1,7 @@
 - name: Portfolio Card Design
   live: http://johnnyvalles.com/portfolio-card/
-- name: GitHub Repository Browser
-  live: https://johnnyvalles.com/repo-browser/
+- name: GitHub Repository Search
+  live: https://johnnyvalles.com/repo-search/
 - name: Studio Ghibli App
   live: https://johnnyvalles.com/ghibli-app/
 - name: Norco College CIS/MAT Supplemental Instruction
