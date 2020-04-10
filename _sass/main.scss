@@ -5,7 +5,6 @@ body {
 }
 a {
 	color: #000;
-	text-decoration: none;
 }
 
 header {
@@ -38,6 +37,14 @@ nav a:hover {
 
 main h2 {
 	font-family: "Oswald", sans-serif;
+}
+
+#whoami a {
+	text-decoration: none;
+}
+
+#whoami div {
+	display: inline;
 }
 
 .school {
@@ -77,5 +84,9 @@ main h2 {
 	nav a {
 		display: block;
 		margin: 0.5em;
+	}
+
+	#whoami div {
+		display: block;
 	}
 }
