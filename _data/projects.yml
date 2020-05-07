@@ -12,3 +12,6 @@
 
 - name: Norco College CIS/MAT Supplemental Instruction
   live: http://johnnyvalles.com/web-development/full-websites/sil-website/index.html
+
+- name: Tic Tac Toe GUI
+  live: https://github.com/johnnyvalles/java-swing-gui/blob/master/TicTacToe/TicTacToe.jar  
