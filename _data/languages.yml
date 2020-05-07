@@ -1,0 +1,23 @@
+- name: C/C++
+  icon: icon microchip
+
+- name: Java
+  icon: icon coffee
+
+- name: Python
+  icon: icon python
+
+- name: HTML
+  icon: icon html5
+
+- name: CSS
+  icon: icon css3 alternate
+
+- name: JavaScript
+  icon: icon js square
+
+- name: SQL
+  icon: icon database
+
+- name: Git
+  icon: icon git square
