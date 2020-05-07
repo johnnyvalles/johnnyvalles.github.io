@@ -79,6 +79,15 @@ main h2 {
 	opacity: 0;
 }
 
+#skill-list {
+	list-style: none;
+	padding: 0 0 0 15px;
+}
+
+#skill-list li {
+	padding: 5px 0;
+}
+
 /* Meh for now */
 @media (max-width: 414px) {
 	nav a {
