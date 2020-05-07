@@ -26,12 +26,7 @@ in collaborative environments, and helping others take their first steps into th
 
 <h2 id="lang-tools">{{ "Languages &amp; Tools" }}</h2>
 <ul id="skill-list">
-    <li><i class="icon microchip"></i> C/C++</li>
-    <li><i class="icon coffee"></i> Java</li>
-    <li><i class="icon python"></i> Python</li>
-    <li><i class="icon html5"></i> HTML</li>
-    <li><i class="icon css3 alternate"></i> CSS</li>
-    <li><i class="icon js square"></i> JavaScript</li>
-    <li><i class="icon database"></i> SQL</li>
-    <li><i class="icon git square"></i> Git</li>
+   {% for lang in site.data.languages %}
+   <li><i class="{{ lang.icon }}"></i> {{ lang.name }}</li>
+   {% endfor %}
 </ul>
