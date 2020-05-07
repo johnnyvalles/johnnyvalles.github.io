@@ -1,8 +1,14 @@
+- name: Learvas CS
+  live: http://github.com/johnnyvalles/learnvas.git/
+
 - name: Portfolio Card Design
   live: http://johnnyvalles.com/portfolio-card/
+
 - name: GitHub Repository Search
   live: https://johnnyvalles.com/repo-search/
+
 - name: Studio Ghibli App
   live: https://johnnyvalles.com/ghibli-app/
+
 - name: Norco College CIS/MAT Supplemental Instruction
   live: http://johnnyvalles.com/web-development/full-websites/sil-website/index.html
