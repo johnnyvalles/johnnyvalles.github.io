@@ -16,7 +16,7 @@
 - name: JavaScript
   icon: icon js square
 
-- name: SQL
+- name: SQL/NoSQL
   icon: icon database
 
 - name: Git
