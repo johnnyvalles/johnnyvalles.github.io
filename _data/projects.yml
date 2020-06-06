@@ -1,3 +1,6 @@
+- name: Encryptsudo
+  live: http://github.com/johnnyvalles/encryptsudo-site/
+  
 - name: Learnvas CS
   live: http://github.com/johnnyvalles/learnvas.git/
 
