@@ -1,7 +1,7 @@
 - name: Encryptsudo
   live: http://johnnyvalles.com/encryptsudo-site/
   
-- name: Learnvas CS
+- name: Learnvas
   live: https://shrouded-ridge-04812.herokuapp.com/
 
 - name: Portfolio Card Design
