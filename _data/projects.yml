@@ -1,20 +1,27 @@
 - name: Encryptsudo
   live: http://johnnyvalles.com/encryptsudo-site/
+  repo: https://github.com/johnnyvalles/encryptsudo-site
   
 - name: Learnvas
   live: https://shrouded-ridge-04812.herokuapp.com/
+  repo: https://github.com/johnnyvalles/learnvas
 
 - name: Portfolio Card Design
   live: http://johnnyvalles.com/portfolio-card/
+  repo: https://github.com/johnnyvalles/portfolio-card
 
 - name: GitHub Repository Search
   live: https://johnnyvalles.com/repo-search/
+  repo: https://github.com/johnnyvalles/repo-search
 
 - name: Studio Ghibli App
   live: https://johnnyvalles.com/ghibli-app/
+  repo: https://github.com/johnnyvalles/ghibli-app
 
 - name: Norco College CIS/MAT Supplemental Instruction
   live: http://johnnyvalles.com/web-development/full-websites/sil-website/index.html
+  repo: https://github.com/johnnyvalles/web-development/tree/master/full-websites/sil-website
 
 - name: Tic Tac Toe
-  live: https://github.com/johnnyvalles/java-swing-gui/blob/master/TicTacToe/TicTacToe.jar  
+  live: https://github.com/johnnyvalles/java-swing-gui/blob/master/TicTacToe/TicTacToe.jar 
+  repo: https://github.com/johnnyvalles/java-swing-gui/tree/master/TicTacToe
