@@ -40,7 +40,7 @@
     - css3
     - js square
 
-- name: Norco College CIS/MAT Supplemental Instruction
+- name: Norco College Supplemental Instruction
   live: http://johnnyvalles.com/web-development/full-websites/sil-website/index.html
   repo: https://github.com/johnnyvalles/web-development/tree/master/full-websites/sil-website
   langs:
