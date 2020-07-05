@@ -65,7 +65,12 @@ main h2 {
     font-family: "Oswald", sans-serif;
 	margin: 0;
 	padding-bottom: 0.5rem;
-    color: #0064A4;
+	color: #0064A4;
+	display: inline-block;
+}
+
+.proj-stack {
+	display: inline-block;
 }
 
 .proj-link {
@@ -127,6 +132,10 @@ main h2 {
 	nav a {
 		display: block;
 		margin: 0.5em;
+	}
+
+	.proj-stack {
+		display: block;
 	}
 
 	#whoami div {

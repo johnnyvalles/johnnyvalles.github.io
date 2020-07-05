@@ -1,7 +1,14 @@
 {% for proj in site.data.projects %}
 <div class="proj-card hide">
     <h3 class="proj-name">{{ proj.name }}</h3>
-    <a href="{{ proj.live }}" target="_blank" class="proj-link">View Live</a>
-    <a href="{{ proj.repo }}" target="_blank" class="proj-link">View Repo</a>
+    <div class="proj-stack">
+        {% for lang in proj.langs %}
+        <i class="icon {{ lang }}"></i>
+        {% endfor %}
+    </div>    
+    <div>
+        <a href="{{ proj.live }}" target="_blank" class="proj-link">View Live</a>
+        <a href="{{ proj.repo }}" target="_blank" class="proj-link">View Repo</a>
+    </div>
 </div>
 {% endfor %}
