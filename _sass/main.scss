@@ -30,6 +30,12 @@ nav a:hover {
 
 }
 
+.active-link {
+	background: #000;
+	color: #FFF;
+	text-decoration: none;
+}
+
 .container {
 	min-width: 200px;
 	max-width: 768px;
