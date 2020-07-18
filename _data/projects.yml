@@ -1,3 +1,11 @@
+- name: Rosa Chavez Homes
+  live: https://rosachavezhomes.com/
+  repo: https://github.com/johnnyvalles/
+  langs:
+    - html5
+    - css3
+    - js square
+
 - name: Encryptsudo
   live: http://johnnyvalles.com/encryptsudo-site/
   repo: https://github.com/johnnyvalles/encryptsudo-site
