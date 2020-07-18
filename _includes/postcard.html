@@ -1,0 +1,9 @@
+{% for post in site.posts %}
+<div class="proj-card hide">
+    <h3 class="proj-name">{{ post.title }}</h3> 
+    <div>
+        <a href="{{ post.url }}" target="_blank" class="proj-link">Read</a>
+        <a href="{{ proj.repo }}" target="_blank" class="proj-link">Repo</a>
+    </div>
+</div>
+{% endfor %}
