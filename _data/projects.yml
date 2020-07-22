@@ -1,3 +1,9 @@
+- name: Implementing a Basic Unix Shell
+  live: /2020/07/17/implementing-a-basic-unix-shell.html
+  repo: https://github.com/johnnyvalles/unix-shell
+  langs:
+    - microchip
+
 - name: Rosa Chavez Homes
   live: https://rosachavezhomes.com/
   repo: https://github.com/johnnyvalles/
