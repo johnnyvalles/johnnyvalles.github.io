@@ -9,7 +9,7 @@
   repo: https://github.com/johnnyvalles/
   langs:
     - html5
-    - css3
+    - css3 alternate
     - js square
 
 - name: Encryptsudo
@@ -17,7 +17,7 @@
   repo: https://github.com/johnnyvalles/encryptsudo-site
   langs:
     - html5
-    - css3
+    - css3 alternate
     - js square
   
 - name: Learnvas
@@ -25,7 +25,7 @@
   repo: https://github.com/johnnyvalles/learnvas
   langs:
     - html5
-    - css3
+    - css3 alternate
     - js square
     - node js
     - database
@@ -35,14 +35,14 @@
   repo: https://github.com/johnnyvalles/portfolio-card
   langs:
     - html5
-    - css3
+    - css3 alternate
 
 - name: GitHub Repository Search
   live: https://johnnyvalles.com/repo-search/
   repo: https://github.com/johnnyvalles/repo-search
   langs:
     - html5
-    - css3
+    - css3 alternate
     - js square
     - github
 
@@ -51,7 +51,7 @@
   repo: https://github.com/johnnyvalles/ghibli-app
   langs:
     - html5
-    - css3
+    - css3 alternate
     - js square
 
 - name: Norco College Supplemental Instruction
@@ -59,7 +59,7 @@
   repo: https://github.com/johnnyvalles/web-development/tree/master/full-websites/sil-website
   langs:
     - html5
-    - css3
+    - css3 alternate
     - js square
 
 - name: Tic Tac Toe
