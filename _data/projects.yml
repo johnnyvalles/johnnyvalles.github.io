@@ -1,5 +1,5 @@
 - name: Implementing a Basic Unix Shell
-  live: /2020/07/17/implementing-a-basic-unix-shell.html
+  live: https://github.com/johnnyvalles/unix-shell/blob/master/implementing-a-basic-unix-shell.md
   repo: https://github.com/johnnyvalles/unix-shell
   langs:
     - microchip
